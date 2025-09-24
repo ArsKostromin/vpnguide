@@ -117,6 +117,8 @@ a {
 .b2 { background-color: #2f4733; border-color: #5bb85b; } /* Android – тёмно-зелёный */
 .b3 { background-color: #473927; border-color: #ff9500; } /* macOS – тёплый */
 .b4 { background-color: #2c2f57; border-color: #7885f8; } /* Windows – тёмно-синий */
+.b5 { background-color: #2c2f57; border-color: #52588b; }
+.b6 { background-color: #2c2f57; border-color: #2b2e4e; }
 
 /* Адаптивность */
 @media (max-width: 480px) {
